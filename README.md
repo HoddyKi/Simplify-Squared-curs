@@ -5,10 +5,10 @@ Adaptation of [Simplify Squared](https://www.deviantart.com/dpcdpc11/art/Simplif
 ## Installation
 
 1. Clone the repo:
-   git clone git@github.com:HoddyKi/Simplify-Squared-curs.git
+   ```git clone git@github.com:HoddyKi/Simplify-Squared-curs.git```
 
 2. Copy to icons directory:
-   sudo cp -r "Simplify Squared Dark" /usr/share/icons/
+   ```sudo cp -r "Simplify Squared Dark" /usr/share/icons/```
 
 3. Apply in XFCE: Settings → Mouse and Touchpad → Theme → Simplify Squared Dark
 
