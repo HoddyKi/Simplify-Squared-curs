@@ -4,13 +4,15 @@ Adaptation of [Simplify Squared](https://www.deviantart.com/dpcdpc11/art/Simplif
 
 ## Installation
 
-1. Clone the repo:
+1.: Clone the repo:
    ```git clone git@github.com:HoddyKi/Simplify-Squared-curs.git```
+   
+   1.5.  ```cd Simplify-Squared-curs```
 
-2. Copy to icons directory:
+3. Copy to icons directory:
    ```sudo cp -r "Simplify Squared Dark" /usr/share/icons/```
 
-3. Apply in XFCE: Settings → Mouse and Touchpad → Theme → Simplify Squared Dark
+4. Apply in XFCE: Settings → Mouse and Touchpad → Theme → Simplify Squared Dark
 
 ## Requirements
 - win2xcur (for converting from source .cur files)
